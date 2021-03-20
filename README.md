@@ -9,7 +9,7 @@
 - Scriptable Object based architecture package [here](https://github.com/raubee/CoreSO)
 - Extension for freezing transforms [here](https://github.com/raubee/TransformExtension)
 ### Vulkan
- - Mvk - library for creating samples and experimentation with Vulkan [here](https://github.com/raubee/mvk)
+ - Mvk - library for creating samples and experimentations with Vulkan [here](https://github.com/raubee/mvk)
  - Simple implementation of a Vulkan Cube [here](https://github.com/raubee/VulkanCube) 
 ### Other
 - Smart arduino based terrarium system [here](https://github.com/raubee/el-caura-terra) [server](https://github.com/raubee/el-caura-terra-server)
