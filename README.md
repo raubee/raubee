@@ -12,7 +12,7 @@
  - Mvk - library for creating samples and experimentation with Vulkan [here](https://github.com/raubee/mvk)
  - Simple implementation of a Vulkan Cube [here](https://github.com/raubee/VulkanCube) 
 ### Other
-- Smart arduino based terrarium system [here](https://github.com/raubee/el-caura-terra) [Server](https://github.com/raubee/el-caura-terra-server)
+- Smart arduino based terrarium system [here](https://github.com/raubee/el-caura-terra) [server](https://github.com/raubee/el-caura-terra-server)
 - My unity snippets for debug log [here](https://github.com/raubee/unity-vs-snippets) 
 - My git aliases [here](https://github.com/raubee/git-aliases)
 - C/C++, OpenGL student project - Wild West City [here](https://github.com/raubee/Wild-West-City)
