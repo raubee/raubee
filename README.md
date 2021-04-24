@@ -21,6 +21,8 @@
 - C/C++, OpenGL student project - Wild West City [here](https://github.com/raubee/Wild-West-City)
 - Java student project - Angry UTBM [here](https://github.com/raubee/angry-utbm)
 
+[![Raubee's GitHub stats](https://github-readme-stats.vercel.app/api?username=raubee)](https://github.com/raubee/github-readme-stats)
+
 <!--
 **Arzijin/Arzijin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
