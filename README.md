@@ -8,6 +8,8 @@
 - Unity Shader formation [here](https://github.com/raubee/Formation-Shader)
 - Visual FX Samples [here](https://github.com/raubee/VisualFX-Samples)
 - Global Game Jam 2018 - Rave space VR [here](https://github.com/raubee/RaveSpace-vr)
+- 1 player 8-pool 2D game [here](https://github.com/raubee/Relaxing-8-Pool)
+
 #### Unity packages
 - Rounded UI unity package [here](https://github.com/raubee/RoundedImage)
 - Scriptable Object based architecture package [here](https://github.com/raubee/CoreSO)
